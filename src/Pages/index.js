@@ -5,6 +5,8 @@ import 'react-slideshow-image/dist/styles.css';
 import Product from '../Components/product';
 import ProductPreview from '../Components/product-preview';
 import Footer from '../Components/footer';
+import ProductPreview1 from '../Components/product-preview1';
+import ProductPreview2 from '../Components/product-preview2';
 
 const Home = () => {
     const img =[
@@ -129,14 +131,14 @@ const Home = () => {
                     <div class="single-product-widget">
                         <h2 class="product-wid-title">Recently Viewed</h2>
                         <a href="#" class="wid-view-more">View All</a>
-                        <ProductPreview></ProductPreview>
+                        <ProductPreview1></ProductPreview1>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="single-product-widget">
                         <h2 class="product-wid-title">Top New</h2>
                         <a href="#" class="wid-view-more">View All</a>
-                        <ProductPreview></ProductPreview>
+                        <ProductPreview2></ProductPreview2>
                     </div>
                 </div>            
             </div>

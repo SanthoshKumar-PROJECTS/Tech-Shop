@@ -29,7 +29,7 @@ render(){
                   <div class="product-breadcroumb">
                     <a href="">Home</a>
                     <a href="">Category Name</a>
-                    <a href="">Sony Smart TV - 2015</a>
+                    <a href="">Nokia Lumia 1320</a>
                   </div>
 
                   <div class="row">
@@ -49,7 +49,7 @@ render(){
 
                     <div class="col-sm-6">
                       <div class="product-inner">
-                        <h2 class="product-name">Sony Smart TV - 2015</h2>
+                        <h2 class="product-name">Nokia Lumia 1320</h2>
                         <div class="product-inner-price">
                           <ins>$700.00</ins> <del>$100.00</del>
                         </div>

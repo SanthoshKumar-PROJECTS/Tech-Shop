@@ -15,7 +15,7 @@ class Product extends Component{
                                     </div>
                                 </div>
 
-                                <h2><a href="/single-product.js">Samsung Galaxy s5- 2015</a></h2>
+                                <h2><a href="/single-product.js">Samsung Galaxy s5-2015</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$700.00</ins> <del>$100.00</del>
@@ -51,7 +51,7 @@ class Product extends Component{
                                     </div>
                                 </div>
 
-                                <h2><a href="/single-product.js">NLG Leon 2015</a></h2>
+                                <h2><a href="/single-product.js">LG Leon 2015</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$400.00</ins> <del>$425.00</del>
@@ -69,7 +69,7 @@ class Product extends Component{
                                     </div>
                                 </div>
 
-                                <h2><a href="/single-product.js">Sony microsoft</a></h2>
+                                <h2><a href="/single-product.js">Sony Xperia M8</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$200.00</ins> <del>$225.00</del>
@@ -105,7 +105,7 @@ class Product extends Component{
                                     </div>
                                 </div>
 
-                                <h2><a href="/single-product.js">Samsung gallaxy note 4</a></h2>
+                                <h2><a href="/single-product.js">Samsung Galaxy note 4</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>$1200.00</ins>
